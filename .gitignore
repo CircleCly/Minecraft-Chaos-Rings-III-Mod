@@ -33,3 +33,7 @@ run
 saves
 logs
 crash-reports
+*.json
+options.txt
+forge-1.12.2-14.23.5.2836-changelog.txt
+README.txt
