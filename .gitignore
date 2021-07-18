@@ -1,0 +1,35 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+# gradle
+build
+.gradle
+gradle
+gradlew
+gradlew.bat
+libs
+
+# other
+eclipse
+run
+
+# saves and logs
+saves
+logs
+crash-reports

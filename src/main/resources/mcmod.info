@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cr3",
+  "name": "Chaos Rings III Mod",
+  "description": "Marble Blue epic adventure & more!",
+  "version": "Prototype 0",
+  "mcversion": "1.12.x",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CircleCly","True_Incarnarnlupus"],
+  "credits": "Mojang, Square Enix",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
